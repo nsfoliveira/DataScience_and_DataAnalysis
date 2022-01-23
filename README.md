@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/51889707/150697812-cc372915-7e79-4433-b5b9-411a43a36fb7.png)
+
 # Portfólio de Análise e Ciência de Dados
 <sub>Repositório destinado aos projetos, análises e exercicios desenvolvidos em linguagem Python
  <hr/>
