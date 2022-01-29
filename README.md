@@ -14,3 +14,16 @@
  <b>Bibliotecas utilizadas: </b>Pandas e MatplotlibM<br>
  
  <b>Acesso ao Projeto: </b> https://bit.ly/3qTmarq
+ <br>
+ ##
+  ### Projeto 02: he Android App Market on Google Play
+ 
+ <b>Tipo: </b>Guiado<br>
+ 
+ <b>Descrição e Objetivo: </b>  
+ 
+ <b>Bibliotecas utilizadas: </b>
+ 
+ <b>Acesso ao Projeto: </b> 
+ <br>
+ 
