@@ -20,10 +20,10 @@
  
  <b>Tipo: </b>Guiado<br>
  
- <b>Descrição e Objetivo: </b>Os dados desse projeto foram extraídos do Google Play Store e foi submetido a etapas de ETL e EDA com finaldade de obter insights sobre o mercado de aplicativos.
+ <b>Descrição e Objetivo: </b>Os dados desse projeto foram extraídos do Google Play Store e foi submetido a etapas de ETL e EDA com finaldade de obter insights sobre o mercado de aplicativos, além de realizar análise de sentimento dos usuários em relação as aplicações.
  
  <b>Bibliotecas utilizadas: </b> Pandas, Plotly e Seaborn
  
- <b>Acesso ao Projeto: </b> 
+ <b>Acesso ao Projeto: </b> https://bit.ly/3o96wqf
  <br>
  
