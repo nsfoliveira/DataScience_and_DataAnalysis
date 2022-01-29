@@ -9,7 +9,7 @@
  
  <b>Tipo: </b>Guiado<br>
  
- <b>Descrição e Objetivo: </b>Será que ao longo dos anos os filmes ficaram mais curtos? Quais os principais gêneros que compõe os filmes com duração inferior a 60 minutos? Essas são algumas perguntas que este dataframe levanta e através da análise exploratória e visualizados dos dados conseguimos tirar algumas conclusões. <br>
+ <b>Descrição e Objetivo: </b>Será que ao longo dos anos os filmes ficaram mais curtos? Quais os principais gêneros que compõe os filmes com duração inferior a 60 minutos? Essas são algumas perguntas que este dataframe levanta e através da análise exploratória e visualização dos dados é poss[ivel compreender e tirar algumas conclusões. <br>
  
  <b>Bibliotecas utilizadas: </b>Pandas e MatplotlibM<br>
  
