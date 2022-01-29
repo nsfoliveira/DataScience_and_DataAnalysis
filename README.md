@@ -16,13 +16,13 @@
  <b>Acesso ao Projeto: </b> https://bit.ly/3qTmarq
  <br>
  ##
-  ### Projeto 02: he Android App Market on Google Play
+  ### Projeto 02: The Android App Market on Google Play
  
  <b>Tipo: </b>Guiado<br>
  
- <b>Descrição e Objetivo: </b>  
+ <b>Descrição e Objetivo: </b>Os dados desse projeto foram extraídos do Google Play Store e foi submetido a etapas de ETL e EDA com finaldade de obter insights sobre o mercado de aplicativos.
  
- <b>Bibliotecas utilizadas: </b>
+ <b>Bibliotecas utilizadas: </b> Pandas, Plotly e Seaborn
  
  <b>Acesso ao Projeto: </b> 
  <br>
